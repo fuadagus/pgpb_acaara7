@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BottomNavigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <array name="jenisTiket">
+        <item>First Class Ticke</item>
+        <item>Business Class Ticket</item>
+        <item>Economy Class Ticket</item>
+
+    </array>
+
+</resources>
+
